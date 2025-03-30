@@ -1,0 +1,6 @@
+sklearn
+
+
+
+
+# pip install scikit-learn  numpy matplotlib scipy  --break-system-packages

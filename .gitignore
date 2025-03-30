@@ -1,0 +1,5 @@
+# Images/outputs (optional)
+outputs/
+*.png
+*.jpg
+*.csv
