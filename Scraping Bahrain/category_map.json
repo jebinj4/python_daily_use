@@ -1,0 +1,87 @@
+{
+    "automotive-transport": [
+        "https://findbahrain.com/directory/automotive-transport/boats-marine",
+        "https://findbahrain.com/directory/automotive-transport/car-rental",
+        "https://findbahrain.com/directory/automotive-transport/car-repair",
+        "https://findbahrain.com/directory/automotive-transport/car-showrooms",
+        "https://findbahrain.com/directory/automotive-transport/car-wash",
+        "https://findbahrain.com/directory/automotive-transport/driving-schools",
+        "https://findbahrain.com/directory/automotive-transport/petrol-stations",
+        "https://findbahrain.com/directory/automotive-transport/tyre-shops"
+    ],
+    "business-b2b": [
+        "https://findbahrain.com/directory/business-b2b/construction-contractors",
+        "https://findbahrain.com/directory/business-b2b/coworking",
+        "https://findbahrain.com/directory/business-b2b/it-tech",
+        "https://findbahrain.com/directory/business-b2b/logistics",
+        "https://findbahrain.com/directory/business-b2b/marketing-agencies",
+        "https://findbahrain.com/directory/business-b2b/printing-signage",
+        "https://findbahrain.com/directory/business-b2b/recruitment",
+        "https://findbahrain.com/directory/business-b2b/security-services"
+    ],
+    "education": [
+        "https://findbahrain.com/directory/education/language-institutes",
+        "https://findbahrain.com/directory/education/nurseries",
+        "https://findbahrain.com/directory/education/schools",
+        "https://findbahrain.com/directory/education/tutoring",
+        "https://findbahrain.com/directory/education/universities",
+        "https://findbahrain.com/directory/education/vocational-training"
+    ],
+    "finance-legal": [
+        "https://findbahrain.com/directory/finance-legal/accounting",
+        "https://findbahrain.com/directory/finance-legal/banks-exchange",
+        "https://findbahrain.com/directory/finance-legal/financial-advisors",
+        "https://findbahrain.com/directory/finance-legal/insurance",
+        "https://findbahrain.com/directory/finance-legal/law-firms"
+    ],
+    "food-dining": [
+        "https://findbahrain.com/directory/food-dining/butchers-fish-markets",
+        "https://findbahrain.com/directory/food-dining/cafes-bakeries",
+        "https://findbahrain.com/directory/food-dining/catering",
+        "https://findbahrain.com/directory/food-dining/food-delivery",
+        "https://findbahrain.com/directory/food-dining/restaurants",
+        "https://findbahrain.com/directory/food-dining/supermarkets"
+    ],
+    "government-community": [
+        "https://findbahrain.com/directory/government-community/govt-services",
+        "https://findbahrain.com/directory/government-community/mosques",
+        "https://findbahrain.com/directory/government-community/parks-recreation",
+        "https://findbahrain.com/directory/government-community/visa-pro-services"
+    ],
+    "health-wellness": [
+        "https://findbahrain.com/directory/health-wellness/gyms-fitness",
+        "https://findbahrain.com/directory/health-wellness/hospitals-clinics",
+        "https://findbahrain.com/directory/health-wellness/martial-arts-yoga",
+        "https://findbahrain.com/directory/health-wellness/optical-eyewear",
+        "https://findbahrain.com/directory/health-wellness/pharmacies",
+        "https://findbahrain.com/directory/health-wellness/salons-barbers",
+        "https://findbahrain.com/directory/health-wellness/spas-wellness"
+    ],
+    "home-services": [
+        "https://findbahrain.com/directory/home-services/ac-repair",
+        "https://findbahrain.com/directory/home-services/cleaning",
+        "https://findbahrain.com/directory/home-services/cooking-gas-lpg",
+        "https://findbahrain.com/directory/home-services/electricians",
+        "https://findbahrain.com/directory/home-services/furniture",
+        "https://findbahrain.com/directory/home-services/interior-designers",
+        "https://findbahrain.com/directory/home-services/moving-relocation",
+        "https://findbahrain.com/directory/home-services/plumbing-maintenance"
+    ],
+    "hotels-tourism": [
+        "https://findbahrain.com/directory/hotels-tourism/bars-nightlife",
+        "https://findbahrain.com/directory/hotels-tourism/events-entertainment",
+        "https://findbahrain.com/directory/hotels-tourism/hotels",
+        "https://findbahrain.com/directory/hotels-tourism/photography",
+        "https://findbahrain.com/directory/hotels-tourism/tourist-attractions",
+        "https://findbahrain.com/directory/hotels-tourism/travel-agencies",
+        "https://findbahrain.com/directory/hotels-tourism/water-sports",
+        "https://findbahrain.com/directory/hotels-tourism/wedding-venues"
+    ],
+    "shopping-retail": [
+        "https://findbahrain.com/directory/shopping-retail/electronics",
+        "https://findbahrain.com/directory/shopping-retail/fashion",
+        "https://findbahrain.com/directory/shopping-retail/jewellery-gold",
+        "https://findbahrain.com/directory/shopping-retail/malls-shopping",
+        "https://findbahrain.com/directory/shopping-retail/perfumes-cosmetics"
+    ]
+}
